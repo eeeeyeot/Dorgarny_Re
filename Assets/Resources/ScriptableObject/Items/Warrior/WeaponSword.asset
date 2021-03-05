@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ac4f0c172f235940bf21bfffe3320d3, type: 3}
+  m_Name: WeaponSword
+  m_EditorClassIdentifier: 
+  name: Default Shield
+  icon: {fileID: 21300000, guid: e9e279a7727a7f64e953fd91ced35735, type: 3}
+  isDefaultItem: 0
+  price: 0
+  category: 0
+  equipSlot: 0
+  damageModifier: 5
+  armorModifier: 0
+  skill:
+  - {fileID: 11400000, guid: 6ffd3a5ccff9668428db772a94d7afe1, type: 2}
+  - {fileID: 11400000, guid: 4d9340d9fa3dfbf42ac39513691cc4ff, type: 2}

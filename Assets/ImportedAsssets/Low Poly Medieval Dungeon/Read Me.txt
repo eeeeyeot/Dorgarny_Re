@@ -1,0 +1,13 @@
+Hello and thank you for purchasing Low Poly Medieval Dungeon package.
+
+I have imported all 3D models in fbx format. Lightmaps are generated on import.
+
+There are 89 prefabs. All models use one atlas texture.
+
+Example Scenes have baked lights. 
+- If lighting doesnt work properly, go to Lighting window and click Generate Lighting.
+
+Texture is 512*512 png
+
+Contact:
+a3deve@gmail.com

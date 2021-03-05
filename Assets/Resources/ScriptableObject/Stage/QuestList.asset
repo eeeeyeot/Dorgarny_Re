@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0d1681653af6c40bf6347e58fd825d, type: 3}
+  m_Name: QuestList
+  m_EditorClassIdentifier: 
+  questList:
+  - stagename: map00
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map01
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map02
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map10
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map11
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map12
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map20
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map21
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0
+  - stagename: map22
+    quest:
+    - quest: "\uC544\uBB34 \uCE90\uB9AD\uB3C4 \uC8FD\uC9C0\uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "\uD3EC\uC158\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uD074\uB9AC\uC5B4"
+      complete: 0
+    - quest: "2:30 \uC548\uC5D0 \uD074\uB9AC\uC5B4"
+      complete: 0

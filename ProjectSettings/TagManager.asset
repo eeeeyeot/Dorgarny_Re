@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainPlayer
+  - SubPlayer
+  - MapModel
+  - Enemy
+  - DeadPlayer
+  - CheckAllDead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player0
+  - Player1
+  - Player2
+  - MoveAgent
+  - MapLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

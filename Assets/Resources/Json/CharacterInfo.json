@@ -1,0 +1,5 @@
+{
+  "character": [
+    {"id" : "character_001", "level" : "1", "attack" : "10", "attackSpeed" : "10", "defense" : "10", "maxHealth" : "100", "equipWeapon" : "weapon_sword_001", "equipSheild" : "sheild_mail_001"}
+  ],
+}

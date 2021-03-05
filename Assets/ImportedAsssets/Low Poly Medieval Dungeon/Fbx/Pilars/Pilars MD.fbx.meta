@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: c457c991ce4c693429748a3e0bc7f9f5
+timeCreated: 1557038464
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: as.001
+    100002: as.002
+    100004: as.003
+    100006: as.004
+    100008: Pilar 1
+    100010: Pilar 1.2
+    100012: Pilar 1.3
+    100014: Pilar 1.4
+    100016: Pilar 2.1
+    100018: Pilar 2.2
+    100020: Pilar 2.3
+    100022: Pilar 2.4
+    100024: Pilar 3.1
+    100026: Pilar 3.2
+    100028: Pilar 3.3
+    100030: Pilar 3.4
+    100032: Pilar Corner
+    100034: //RootNode
+    100036: Pilar 4.1
+    100038: Pilar 4.2
+    100040: Pilar 4.3
+    100042: Pilar 4.4
+    400000: as.001
+    400002: as.002
+    400004: as.003
+    400006: as.004
+    400008: Pilar 1
+    400010: Pilar 1.2
+    400012: Pilar 1.3
+    400014: Pilar 1.4
+    400016: Pilar 2.1
+    400018: Pilar 2.2
+    400020: Pilar 2.3
+    400022: Pilar 2.4
+    400024: Pilar 3.1
+    400026: Pilar 3.2
+    400028: Pilar 3.3
+    400030: Pilar 3.4
+    400032: Pilar Corner
+    400034: //RootNode
+    400036: Pilar 4.1
+    400038: Pilar 4.2
+    400040: Pilar 4.3
+    400042: Pilar 4.4
+    2300000: as.001
+    2300002: as.002
+    2300004: as.003
+    2300006: as.004
+    2300008: Pilar 1
+    2300010: Pilar 1.2
+    2300012: Pilar 1.3
+    2300014: Pilar 1.4
+    2300016: Pilar 2.1
+    2300018: Pilar 2.2
+    2300020: Pilar 2.3
+    2300022: Pilar 2.4
+    2300024: Pilar 3.1
+    2300026: Pilar 3.2
+    2300028: Pilar 3.3
+    2300030: Pilar 3.4
+    2300032: Pilar Corner
+    2300034: Pilar 4.1
+    2300036: Pilar 4.2
+    2300038: Pilar 4.3
+    2300040: Pilar 4.4
+    3300000: as.001
+    3300002: as.002
+    3300004: as.003
+    3300006: as.004
+    3300008: Pilar 1
+    3300010: Pilar 1.2
+    3300012: Pilar 1.3
+    3300014: Pilar 1.4
+    3300016: Pilar 2.1
+    3300018: Pilar 2.2
+    3300020: Pilar 2.3
+    3300022: Pilar 2.4
+    3300024: Pilar 3.1
+    3300026: Pilar 3.2
+    3300028: Pilar 3.3
+    3300030: Pilar 3.4
+    3300032: Pilar Corner
+    3300034: Pilar 4.1
+    3300036: Pilar 4.2
+    3300038: Pilar 4.3
+    3300040: Pilar 4.4
+    4300000: Pilar Corner
+    4300002: as.004
+    4300004: as.003
+    4300006: as.002
+    4300008: Pilar 2.4
+    4300010: Pilar 2.3
+    4300012: Pilar 2.2
+    4300014: Pilar 2.1
+    4300016: Pilar 3.4
+    4300018: Pilar 3.3
+    4300020: Pilar 3.2
+    4300022: Pilar 3.1
+    4300024: as.001
+    4300026: Pilar 1.4
+    4300028: Pilar 1.3
+    4300030: Pilar 1.2
+    4300032: Pilar 1
+    4300034: Pilar 4.4
+    4300036: Pilar 4.3
+    4300038: Pilar 4.1
+    4300040: Pilar 4.2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

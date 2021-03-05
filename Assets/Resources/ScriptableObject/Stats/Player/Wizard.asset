@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492d176a96a7a3140869d8d481154ba9, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 41893b1fc4426064ba5f471f3aaceba6, type: 3}
+  rps: 0
+  setMenually: 1
+  saveDataOnClose: 0
+  maxHealth: 160
+  currentHealth: 134.80334
+  maxMana: 100
+  currentMana: 100
+  baseDamage: 30
+  baseArmor: 3.1499999
+  job: Wizard
+  level: 1
+  currentExp: 41
+  maxExp: 160
+  viewRange: 1.5
+  attackRange: 1.5
+  weapon: {fileID: 11400000, guid: 670593ea1db170f419caf2dd5575982e, type: 2}
+  armor: {fileID: 0}
+  activeSkill:
+  - {fileID: 11400000, guid: 1cf854aba5dc5a24d88f06c47cb37371, type: 2}
+  - {fileID: 11400000, guid: 8d309627ddb598c4d98168f7f853b0ed, type: 2}

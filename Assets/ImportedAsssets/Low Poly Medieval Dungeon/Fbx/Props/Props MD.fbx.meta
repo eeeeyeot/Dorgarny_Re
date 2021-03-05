@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 6e774de41e6d9b54aab53688782ed5f7
+timeCreated: 1557328415
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Bottle 01
+    100004: Bottle 02
+    100006: Bottle 03
+    100008: Bottle 04
+    100010: Bottle 05
+    100012: Bottle 06
+    100014: Candle 01
+    100016: Candle 02
+    100018: Candle 03
+    100020: Candle 04
+    100022: Candle Melt
+    100024: Cauldron
+    100026: Chest
+    100028: Chest Lid
+    100030: Copper Coin
+    100032: Copper Coins 01
+    100034: Copper Coins 02
+    100036: Copper Coins 03
+    100038: Copper Coins 04
+    100040: Crate
+    100042: Cross
+    100044: Dowl 1
+    100046: Flame
+    100048: Gold Coin
+    100050: Gold Coins 01
+    100052: Gold Coins 02
+    100054: Gold Coins 03
+    100056: Gold Coins 04
+    100058: Little Wooden Chair
+    100060: Plate 01
+    100062: Plate 02
+    100064: //RootNode
+    100066: Shelf
+    100068: Silver Coin
+    100070: Silver Coins 01
+    100072: Silver Coins 02
+    100074: Silver Coins 03
+    100076: Silver Coins 04
+    100078: Sword 01
+    100080: Torch
+    100082: Wall Flag
+    100084: Wooden Table
+    100086: Wooden Table Big
+    100088: Wall Flag Green
+    100090: Floor Brick 1
+    100092: Floor Brick 2
+    100094: Wall Brick
+    400000: Barrel
+    400002: Bottle 01
+    400004: Bottle 02
+    400006: Bottle 03
+    400008: Bottle 04
+    400010: Bottle 05
+    400012: Bottle 06
+    400014: Candle 01
+    400016: Candle 02
+    400018: Candle 03
+    400020: Candle 04
+    400022: Candle Melt
+    400024: Cauldron
+    400026: Chest
+    400028: Chest Lid
+    400030: Copper Coin
+    400032: Copper Coins 01
+    400034: Copper Coins 02
+    400036: Copper Coins 03
+    400038: Copper Coins 04
+    400040: Crate
+    400042: Cross
+    400044: Dowl 1
+    400046: Flame
+    400048: Gold Coin
+    400050: Gold Coins 01
+    400052: Gold Coins 02
+    400054: Gold Coins 03
+    400056: Gold Coins 04
+    400058: Little Wooden Chair
+    400060: Plate 01
+    400062: Plate 02
+    400064: //RootNode
+    400066: Shelf
+    400068: Silver Coin
+    400070: Silver Coins 01
+    400072: Silver Coins 02
+    400074: Silver Coins 03
+    400076: Silver Coins 04
+    400078: Sword 01
+    400080: Torch
+    400082: Wall Flag
+    400084: Wooden Table
+    400086: Wooden Table Big
+    400088: Wall Flag Green
+    400090: Floor Brick 1
+    400092: Floor Brick 2
+    400094: Wall Brick
+    2300000: Barrel
+    2300002: Bottle 01
+    2300004: Bottle 02
+    2300006: Bottle 03
+    2300008: Bottle 04
+    2300010: Bottle 05
+    2300012: Bottle 06
+    2300014: Candle 01
+    2300016: Candle 02
+    2300018: Candle 03
+    2300020: Candle 04
+    2300022: Candle Melt
+    2300024: Cauldron
+    2300026: Chest
+    2300028: Chest Lid
+    2300030: Copper Coin
+    2300032: Copper Coins 01
+    2300034: Copper Coins 02
+    2300036: Copper Coins 03
+    2300038: Copper Coins 04
+    2300040: Crate
+    2300042: Cross
+    2300044: Dowl 1
+    2300046: Flame
+    2300048: Gold Coin
+    2300050: Gold Coins 01
+    2300052: Gold Coins 02
+    2300054: Gold Coins 03
+    2300056: Gold Coins 04
+    2300058: Little Wooden Chair
+    2300060: Plate 01
+    2300062: Plate 02
+    2300064: Shelf
+    2300066: Silver Coin
+    2300068: Silver Coins 01
+    2300070: Silver Coins 02
+    2300072: Silver Coins 03
+    2300074: Silver Coins 04
+    2300076: Sword 01
+    2300078: Torch
+    2300080: Wall Flag
+    2300082: Wooden Table
+    2300084: Wooden Table Big
+    2300086: Wall Flag Green
+    2300088: Floor Brick 1
+    2300090: Floor Brick 2
+    2300092: Wall Brick
+    3300000: Barrel
+    3300002: Bottle 01
+    3300004: Bottle 02
+    3300006: Bottle 03
+    3300008: Bottle 04
+    3300010: Bottle 05
+    3300012: Bottle 06
+    3300014: Candle 01
+    3300016: Candle 02
+    3300018: Candle 03
+    3300020: Candle 04
+    3300022: Candle Melt
+    3300024: Cauldron
+    3300026: Chest
+    3300028: Chest Lid
+    3300030: Copper Coin
+    3300032: Copper Coins 01
+    3300034: Copper Coins 02
+    3300036: Copper Coins 03
+    3300038: Copper Coins 04
+    3300040: Crate
+    3300042: Cross
+    3300044: Dowl 1
+    3300046: Flame
+    3300048: Gold Coin
+    3300050: Gold Coins 01
+    3300052: Gold Coins 02
+    3300054: Gold Coins 03
+    3300056: Gold Coins 04
+    3300058: Little Wooden Chair
+    3300060: Plate 01
+    3300062: Plate 02
+    3300064: Shelf
+    3300066: Silver Coin
+    3300068: Silver Coins 01
+    3300070: Silver Coins 02
+    3300072: Silver Coins 03
+    3300074: Silver Coins 04
+    3300076: Sword 01
+    3300078: Torch
+    3300080: Wall Flag
+    3300082: Wooden Table
+    3300084: Wooden Table Big
+    3300086: Wall Flag Green
+    3300088: Floor Brick 1
+    3300090: Floor Brick 2
+    3300092: Wall Brick
+    4300000: Copper Coin
+    4300002: Copper Coins 02
+    4300004: Copper Coins 01
+    4300006: Copper Coins 03
+    4300008: Copper Coins 04
+    4300010: Silver Coin
+    4300012: Silver Coins 02
+    4300014: Silver Coins 01
+    4300016: Silver Coins 03
+    4300018: Silver Coins 04
+    4300020: Gold Coins 04
+    4300022: Gold Coins 03
+    4300024: Gold Coins 01
+    4300026: Gold Coins 02
+    4300028: Gold Coin
+    4300030: Wall Flag
+    4300032: Chest
+    4300034: Chest Lid
+    4300036: Plate 02
+    4300038: Plate 01
+    4300040: Torch
+    4300042: Flame
+    4300044: Bottle 04
+    4300046: Bottle 05
+    4300048: Bottle 06
+    4300050: Bottle 03
+    4300052: Bottle 02
+    4300054: Bottle 01
+    4300056: Crate
+    4300058: Barrel
+    4300060: Shelf
+    4300062: Little Wooden Chair
+    4300064: Wooden Table Big
+    4300066: Candle Melt
+    4300068: Candle 02
+    4300070: Sword 01
+    4300072: Dowl 1
+    4300074: Candle 04
+    4300076: Candle 03
+    4300078: Candle 01
+    4300080: Wooden Table
+    4300082: Cauldron
+    4300084: Cross
+    4300086: Wall Flag Green
+    4300088: Wall Brick
+    4300090: Floor Brick 2
+    4300092: Floor Brick 1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

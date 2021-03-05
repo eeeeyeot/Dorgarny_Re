@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c58e786e34660646b3b7a6cfe50f8b2, type: 3}
+  m_Name: MissionSO
+  m_EditorClassIdentifier: 
+  missionList:
+  - clearMission: 0
+    getReward: 0
+    missionid: Gold
+    missiondescription: "\uACE8\uB4DC \uC18C\uBAA8"
+    needValue: 100
+    currentValue: 0
+    rewardGold: 300
+    rewardItem: {fileID: 11400000, guid: 35f86e06d2408ce4b86ec0e06a3335e8, type: 2}
+  - clearMission: 0
+    getReward: 0
+    missionid: MonsterSlayer
+    missiondescription: "\uBAAC\uC2A4\uD130 \uCC98\uCE58"
+    needValue: 100
+    currentValue: 0
+    rewardGold: 200
+    rewardItem: {fileID: 0}
+  - clearMission: 0
+    getReward: 0
+    missionid: StageClear
+    missiondescription: "\uC2A4\uD14C\uC774\uC9C0 \uD074\uB9AC\uC5B4"
+    needValue: 1
+    currentValue: 0
+    rewardGold: 0
+    rewardItem: {fileID: 11400000, guid: 670593ea1db170f419caf2dd5575982e, type: 2}
+  - clearMission: 0
+    getReward: 0
+    missionid: LevelUp
+    missiondescription: "\uB808\uBCA8 \uB2EC\uC131"
+    needValue: 5
+    currentValue: 0
+    rewardGold: 1000
+    rewardItem: {fileID: 11400000, guid: 829111f87dc635e409cdb1d74a482f70, type: 2}
