@@ -1,9 +1,12 @@
-﻿using System.Collections;
+﻿using System;
+using System.Text;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Assets.Scripts;
 using UnityEngine.AI;
-using System.Text;
+using Assets.Scripts;
+
+
 
 [RequireComponent(typeof(Rigidbody))]
 public class FSMPlayer : FSMBase<CharacterState>
@@ -148,7 +151,14 @@ public class FSMPlayer : FSMBase<CharacterState>
     {
         if (lockAttack) return;
 
-		transform.LookAt(aiControl.NearestEnemy.transform.position);
+		try
+		{
+			transform.LookAt(aiControl.NearestEnemy.transform.position);
+		}
+		catch(NullReferenceException e)
+		{
+			Debug.Log(e.StackTrace);
+		}
 
         GetComponent<NavMeshAgent>().speed = 1.0f;
 

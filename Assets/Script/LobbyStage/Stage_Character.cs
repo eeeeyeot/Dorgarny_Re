@@ -26,8 +26,8 @@ public class Stage_Character : MonoBehaviour
 
 	void Update()
 	{
-        Vector3 chaPosition = this.transform.position;
-        Camera.main.transform.position = chaPosition + new Vector3(offSetx, offSety);
+        Vector3 thisPos = this.transform.position;
+        Camera.main.transform.position = thisPos + new Vector3(offSetx, offSety);
 		if(GetComponent<NavMeshAgent>().velocity != Vector3.zero)
 		{
 			GetComponent<Animator>().SetInteger("LoopState", 1);
