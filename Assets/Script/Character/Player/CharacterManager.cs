@@ -20,8 +20,8 @@ public class CharacterManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
     #endregion
+
     public List<PlayerStats_SO> stats_List = new List<PlayerStats_SO>();
 
     public CharacterInfoUI characterInfo;

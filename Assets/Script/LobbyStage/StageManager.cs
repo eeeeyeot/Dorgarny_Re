@@ -22,25 +22,31 @@ public class StageManager : MonoBehaviour
     }
     #endregion
 
+    [SerializeField]
     public Sprite fillStar;
-
-    public Transform chaTransform;
+    [SerializeField]
+    public Transform stageCharacterTransform;
+    [SerializeField]
     public string colliderName { get; set; }
     private NavMeshAgent agent;
     private string destination;
 
+    [SerializeField]
     public Transform stageroot;
+    [SerializeField]
     public List<StageInfo> stageList;
+    [SerializeField]
     public StageList_SO stageSO;
-
+    [SerializeField]
     public GameObject stageSelectBtn;
+
     public GameObject stageStartBtn;
     public GameObject townBtn;
     
     void Start()
     {
         
-        agent = chaTransform.GetComponent<NavMeshAgent>();
+        agent = stageCharacterTransform.GetComponent<NavMeshAgent>();
         destination = "Town";
         for (int i = 0; i < stageroot.childCount - 1; i++)
         {
@@ -57,7 +63,6 @@ public class StageManager : MonoBehaviour
     {
         foreach(StageInfo stage in stageList)
         {
-			Debug.Log(stage.name);
             stage.UpdateStar(fillStar);
         }
     }
@@ -67,9 +72,9 @@ public class StageManager : MonoBehaviour
         agent.SetDestination(position);
     }
 
-    public void SetDestination(string desti)
+    public void SetDestination(string dest)
     {
-        destination = desti;
+        destination = dest;
     }
 
     void Update()
